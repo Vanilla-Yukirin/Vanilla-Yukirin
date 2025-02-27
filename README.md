@@ -1,5 +1,26 @@
 ## Hi there 👋
 
+
+<a href="#">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Vanilla-chan-nya&count_private=true&show_icons=true" />
+</a>
+
+🍓 **About Me**
+
+
+
+Vanilla_chan ,Formerly an OIer.
+
+Started learning C# and want to learn WPF
+
+🌱 I’m currently learning C# & WPF
+
+🔭 I want to use WPF
+
+⚡ Interesting facts: gender = male
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanilla-chan-nya&layout=compact" />
+
 <!--
 **Vanilla-chan-nya/Vanilla-chan-nya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +35,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
