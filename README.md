@@ -19,6 +19,8 @@ Started learning C# and want to learn WPF
 
 ⚡ Interesting facts: gender = male
 
+![Vanilla-chan-nya](https://count.getloli.com/@Vanilla-chan-nya)
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanilla-chan-nya&layout=compact" />
 
 <!--
