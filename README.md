@@ -20,7 +20,7 @@ A noob, was one before, still am now, and might always be... but I'll keep tryin
 ---
 
 
-<table style="width: 100%; border-collapse: collapse;">
+<table style="width: 100%; border-collapse: collapse; border: none;">
   <tr>
     <!-- GitHub Stats 图片 -->
     <td style="text-align: center; padding: 5px;">
