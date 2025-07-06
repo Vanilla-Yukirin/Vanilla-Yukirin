@@ -14,6 +14,29 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanilla-chan-nya&layout=compact" alt="Top Langs" />
   </a>
 </div>
+
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <!-- GitHub Stats 图片 -->
+    <td style="text-align: center; padding: 5px;">
+      <a href="#">
+        <img src="https://github-readme-stats.vercel.app/api?username=Vanilla-chan-nya&count_private=true&show_icons=true" alt="GitHub Stats" style="width: 100%; max-width: 320px;" />
+      </a>
+    </td>
+    <!-- Loli 计数器 图片 -->
+    <td style="text-align: center; padding: 5px;">
+      <img src="https://count.getloli.com/@Vanilla-chan-nya?name=Vanilla_chan&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1" alt="Loli Counter" style="width: 100%; max-width: 320px;" />
+    </td>
+    <!-- Top Langs 图片 -->
+    <td style="text-align: center; padding: 5px;">
+      <a href="#">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanilla-chan-nya&layout=compact" alt="Top Langs" style="width: 100%; max-width: 320px;" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 ---
 
 🍓 **About Me**
