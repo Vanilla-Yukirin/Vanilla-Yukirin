@@ -2,7 +2,7 @@
 
 🍓 **About Me**
 
-My name is `Vanilla_chan`, and I'm an **ACMer & MCMer & AFOIer**
+My name is `Vanilla_Yukirin`, and I'm an **ACMer & MCMer & AFOIer**
 
 🌱 Currently studying **Data Science and Big Data Technology** at a non-Double World-Class university (with a touch of sadness 😢)
 
@@ -25,7 +25,7 @@ A noob, was one before, still am now, and might always be... but I'll keep tryin
     <!-- GitHub Stats 图片 -->
     <td style="text-align: center; padding: 5px;">
       <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api?username=Vanilla-chan-nya&count_private=true&show_icons=true" alt="GitHub Stats" style="width: 100%; max-width: 320px;" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Vanilla-Yukirin&count_private=true&show_icons=true" alt="GitHub Stats" style="width: 100%; max-width: 320px;" />
       </a>
     </td>
     <!-- Loli 计数器 图片 -->
@@ -35,7 +35,7 @@ A noob, was one before, still am now, and might always be... but I'll keep tryin
     <!-- Top Langs 图片 -->
     <td style="text-align: center; padding: 5px;">
       <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanilla-chan-nya&layout=compact" alt="Top Langs" style="width: 100%; max-width: 320px;" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanilla-Yukirin&layout=compact" alt="Top Langs" style="width: 100%; max-width: 320px;" />
       </a>
     </td>
   </tr>
