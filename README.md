@@ -25,7 +25,7 @@ A noob, was one before, still am now, and might always be... but I'll keep tryin
     <!-- GitHub Stats 图片 -->
     <td style="text-align: center; padding: 5px;">
       <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api?username=Vanilla-Yukirin&count_private=true&show_icons=true" alt="GitHub Stats" style="width: 100%; max-width: 320px;" />
+        <img src="https://github-readme-stats-rouge-psi-10.vercel.app/api?username=Vanilla-Yukirin&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="width: 100%; max-width: 320px;" />
       </a>
     </td>
     <!-- Loli 计数器 图片 -->
@@ -35,8 +35,23 @@ A noob, was one before, still am now, and might always be... but I'll keep tryin
     <!-- Top Langs 图片 -->
     <td style="text-align: center; padding: 5px;">
       <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanilla-Yukirin&layout=compact" alt="Top Langs" style="width: 100%; max-width: 320px;" />
+        <img src="https://github-readme-stats-rouge-psi-10.vercel.app/api/top-langs/?username=Vanilla-Yukirin&layout=compact&theme=tokyonight" alt="Top Langs" style="width: 100%; max-width: 320px;" />
       </a>
     </td>
   </tr>
 </table>
+
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vanilla-Yukirin&theme=react-dark&area=true)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=500&pause=1000&color=F76BBC&center=true&vCenter=true&width=435&lines=Time+is+like+water+flowing+eastward;only+flowing+away+without+flowing+back)](https://git.io/typing-svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vanilla-Yukirin/Vanilla-Yukirin/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vanilla-Yukirin/Vanilla-Yukirin/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vanilla-Yukirin/Vanilla-Yukirin/output/github-contribution-grid-snake.svg">
+</picture>
+
+📕 &nbsp;**Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
