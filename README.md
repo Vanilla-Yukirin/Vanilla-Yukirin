@@ -1,4 +1,6 @@
-# ⚠ 施工中 ⚠
+<div align="center">
+  <h1>⚠ 施工中 ⚠</h1>
+</div>
 
 <div align="center">
   <h1>Hi there, I'm Vanilla Yukirin 👋</h1>
@@ -8,11 +10,13 @@
   </a>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vanilla-Yukirin/Vanilla-Yukirin/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vanilla-Yukirin/Vanilla-Yukirin/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vanilla-Yukirin/Vanilla-Yukirin/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vanilla-Yukirin/Vanilla-Yukirin/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vanilla-Yukirin/Vanilla-Yukirin/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vanilla-Yukirin/Vanilla-Yukirin/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ### 🍓 About Me
 
@@ -24,7 +28,7 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ae,anaconda,arch,au,c,cs,cpp,clion,cloudflare,cmake,css,docker,dotnet,eclipse,git,github,gmail,html,js,kali,linux,matlab,nextjs,nginx,nodejs,npm,opencv,ps,pr,pycharm,py,pytorch,qt,redis,sqlite,sklearn,tensorflow,ts,ubuntu,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ae,anaconda,arch,au,c,cs,cpp,clion,cloudflare,cmake,css,docker,dotnet,eclipse,git,github,gmail,html,js,kali,linux,matlab,nextjs,nginx,nodejs,npm,opencv,ps,pr,pycharm,py,pytorch,qt,redis,sqlite,sklearn,tensorflow,ts,ubuntu,vscode&perline=10" alt="Tech Stack" />
 </div>
 
 ### 📊 GitHub Stats
@@ -33,14 +37,23 @@
   <img src="https://github-readme-stats-rouge-psi-10.vercel.app/api/top-langs/?username=Vanilla-Yukirin&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Langs"/>
 </div>
 
-### 🐍 Contributions
-<!-- ![Vanilla Yukirin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vanilla-Yukirin&theme=react-dark&area=true) -->
+### 📈 GitHub Activity
 
-![](profile-3d-contrib/profile-night-green.svg)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vanilla-Yukirin&theme=react-dark&area=true" alt="Vanilla Yukirin's github activity graph"/>
+</div>
 
-### 访问统计
+### 🧊 3D Contributions
 
-<img src="https://count.getloli.com/@Vanilla-chan-nya?name=Vanilla_chan&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1" alt="Loli Counter" />
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-green.svg" alt="3D Contributions"/>
+</div>
+
+### 👀 Visitor Count
+
+<div align="center">
+  <img src="https://count.getloli.com/@Vanilla-chan-nya?name=Vanilla_chan&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1" alt="Loli Counter" />
+</div>
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
