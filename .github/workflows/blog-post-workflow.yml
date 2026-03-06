@@ -20,6 +20,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "BLOG-POST-LIST-CITE"
+          tag_post_pre_newline: "true"
           feed_list: "https://vanilla-chan.cn/blog/atom.xml"
           max_post_count: "5"
           template: "- [$title]($url), `$date`$newline"
