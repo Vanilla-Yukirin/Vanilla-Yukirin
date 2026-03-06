@@ -24,13 +24,4 @@ jobs:
           max_post_count: "5"
           template: "- [$title]($url), `$date`$newline"
           date_format: "UTC:yyyy-mm-dd HH:MM"
-          item_exec: "post.date = new Date(post.date.getTime() + 8 * 60 * 60 * 1000)"
-      - name: Pull in blog posts (table style)
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          comment_tag_name: "BLOG-POST-LIST-TABLE"
-          feed_list: "https://vanilla-chan.cn/blog/atom.xml"
-          max_post_count: "5"
-          template: "| [$title]($url) | `$date` |$newline"
-          date_format: "UTC:yyyy-mm-dd HH:MM"
-          item_exec: "post.date = new Date(post.date.getTime() + 8 * 60 * 60 * 1000)"
+          # item_exec: "post.date = new Date(post.date.getTime() + 8 * 60 * 60 * 1000)"
