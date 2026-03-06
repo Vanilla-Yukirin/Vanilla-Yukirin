@@ -32,6 +32,12 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST-CITE:START -->
+- [零刻GTi13Ultra进入BIOS切换显卡PCIe通道](http://vanilla-chan.cn/blog/2026/03/05/GTi13Ultra-BIOS-PCIe-Configuration/), `2026-03-05 21:42`
+- [21岁。](http://vanilla-chan.cn/blog/2026/03/02/checkpoint-at-21/), `2026-03-02 04:10`
+- [Z-Image-Turbo进行LoRA微调流程](http://vanilla-chan.cn/blog/2026/02/14/Z-Image-Turbo-Finetune-LoRA/), `2026-02-14 15:53`
+- [解决Windows11端口被随机占用的问题](http://vanilla-chan.cn/blog/2026/02/13/fix-win11-port-occupied/), `2026-02-13 10:49`
+- [仅通过一句提示词，就可以让大模型变得更有创造力](http://vanilla-chan.cn/blog/2025/12/17/Verbalized-Sampling/), `2025-12-17 06:14`
+
 <!-- BLOG-POST-LIST-CITE:END -->
 
 ### 📊 GitHub Stats
