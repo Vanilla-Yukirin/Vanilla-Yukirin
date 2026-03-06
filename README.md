@@ -32,8 +32,7 @@
 ### 📕 Latest Blog Posts
 
 #### Citation Style
-<!-- BLOG-POST-LIST-CITE:START -->
-- [零刻GTi13Ultra进入BIOS切换显卡PCIe通道](http://vanilla-chan.cn/blog/2026/03/05/GTi13Ultra-BIOS-PCIe-Configuration/), `2026-03-06 05:42`
+<!-- BLOG-POST-LIST-CITE:START -->- [零刻GTi13Ultra进入BIOS切换显卡PCIe通道](http://vanilla-chan.cn/blog/2026/03/05/GTi13Ultra-BIOS-PCIe-Configuration/), `2026-03-06 05:42`
 - [21岁。](http://vanilla-chan.cn/blog/2026/03/02/checkpoint-at-21/), `2026-03-02 12:10`
 - [Z-Image-Turbo进行LoRA微调流程](http://vanilla-chan.cn/blog/2026/02/14/Z-Image-Turbo-Finetune-LoRA/), `2026-02-14 23:53`
 - [解决Windows11端口被随机占用的问题](http://vanilla-chan.cn/blog/2026/02/13/fix-win11-port-occupied/), `2026-02-13 18:49`
