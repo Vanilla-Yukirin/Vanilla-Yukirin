@@ -17,6 +17,12 @@
 - 💻 **Goal:** Become an algorithm engineer who solves tough problems with clever code.
 - ✨ **Hope:** To use code and math to create miracles, making the world just a little more interesting 😊.
 
+<div align="center">
+  <a href="https://codetime.dev/zh-CN/user/35121">
+    <img href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D35121">
+  </a>
+</div>
+
 ### 🛠️ Tech Stack
 
 <div align="center">
