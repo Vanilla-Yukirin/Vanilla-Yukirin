@@ -1,17 +1,18 @@
 name: generate animation
 
 on:
-  # run automatically every 2 hours
+  # 定时触发 - 每天北京时间凌晨 4 点执行一次
+  # UTC 20:00 = UTC+8 04:00（次日）
   schedule:
-    - cron: "0 */2 * * *" 
+    - cron: "0 20 * * *"
   
-  # allows to manually run the job at any time
+  # 允许手动触发工作流
   workflow_dispatch:
   
-  # run on every push on the master branch
+  # 在 main 分支推送时触发
   push:
     branches:
-    - master
+    - main
   
   
 

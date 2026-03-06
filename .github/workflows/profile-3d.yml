@@ -1,8 +1,11 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 18 * * *"
+  # 定时触发 - 每天北京时间凌晨 4 点执行一次
+  # UTC 20:00 = UTC+8 04:00（次日）
+  schedule:
+    - cron: "0 20 * * *"
+  # 允许手动触发工作流
   workflow_dispatch:
 
 jobs:

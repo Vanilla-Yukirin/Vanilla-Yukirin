@@ -1,8 +1,9 @@
 name: Latest blog post workflow
 on:
-  schedule: # Run workflow automatically
-    - cron: '0 */2 * * *' # Runs every hour, on the hour
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+  schedule: # 定时触发 - 每小时执行一次
+    # UTC 时间每小时 0 分执行 = 北京时间 (UTC+8) 每小时 0 分
+    - cron: '0 * * * *'
+  workflow_dispatch: # 允许手动触发工作流
 permissions:
   contents: write # To write the generated contents to the readme
 
