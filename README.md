@@ -20,7 +20,7 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,c,cpp,cmake,clion,cs,dotnet,qt,matlab,py,anaconda,pycharm,opencv,pytorch,tensorflow,sklearn,ps,pr,ae,au,html,css,js,ts,nextjs,npm,nodejs,sqlite,redis,nginx,docker,linux,ubuntu,arch,kali,git,github,eclipse,cloudflare,gmail&perline=10" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=vscode,c,cpp,cmake,clion,cs,dotnet,qt,matlab,py,anaconda,pycharm,opencv,pytorch,tensorflow,sklearn,sqlite,redis,html,css,js,ts,nextjs,npm,nodejs,nginx,docker,linux,ubuntu,arch,git,eclipse,ps,pr,ae,au&perline=9" alt="Tech Stack" />
 </div>
 
 ### 📕 Latest Blog Posts
