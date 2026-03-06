@@ -3,7 +3,7 @@ on:
   schedule: # 定时触发 - 每小时执行一次
     # UTC 时间每小时 0 分执行 = 北京时间 (UTC+8) 每小时 0 分
     - cron: '0 * * * *'
-  workflow_dispatch: # 允许手动触发工作流
+  workflow_dispatch: # 允许手动触发工作流，方便在修改了README格式后立即测试
   repository_dispatch: # 接收来自 hexo-blog 仓库的跨仓库更新信号
     types: [update-blog-posts]
 permissions:
