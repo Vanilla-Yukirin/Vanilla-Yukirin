@@ -56,8 +56,7 @@
   <br/>
   <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vanilla-Yukirin&theme=react-dark&area=true" alt="Vanilla Yukirin's github activity graph"/>
-  </div>
-  <div align="center">
+    <br/><br/>
     <img src="profile-3d-contrib/profile-night-green.svg" alt="3D Contributions"/>
   </div>
 </details>
