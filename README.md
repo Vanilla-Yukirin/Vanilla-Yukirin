@@ -14,10 +14,10 @@
 
 ### 🍓 About Me
 
-- 🌱 Currently studying **Data Science and Big Data Technology**.
-- 🎮 Love playing **GalGames** (Visual Novels) and tinkering with interesting things.
-- 💻 **Goal:** Become an algorithm engineer who solves tough problems with clever code.
-- ✨ **Hope:** To use code and math to create miracles, making the world just a little more interesting 😊.
+- 🌱 **Major**: Data Science and Big Data Technology
+- 🎮 **Interests**: Playing GalGames (Visual Novels) and tinkering with interesting things
+- 💻 **Goal**: Become an algorithm engineer who solves tough problems with clever code
+- ✨ **Vision**: Use code and math to create miracles, making the world just a little more interesting 😊
 
 <div align="center">
   <a href="https://codetime.dev/zh-CN/user/35121">
