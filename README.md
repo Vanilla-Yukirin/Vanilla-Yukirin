@@ -34,11 +34,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST-CITE:START -->
+- [同花顺“摘星计划”面经](http://vanilla-chan.cn/blog/2026/03/26/ths-astar-interview-experience/), `2026-03-26 02:51`
 - [记一次解密7z](http://vanilla-chan.cn/blog/2026/03/13/1-crack-7z/), `2026-03-13 16:39`
 - [零刻GTi13Ultra进入BIOS切换显卡PCIe通道](http://vanilla-chan.cn/blog/2026/03/05/GTi13Ultra-BIOS-PCIe-Configuration/), `2026-03-05 21:42`
 - [21岁。](http://vanilla-chan.cn/blog/2026/03/02/checkpoint-at-21/), `2026-03-02 04:10`
 - [Z-Image-Turbo进行LoRA微调流程](http://vanilla-chan.cn/blog/2026/02/14/Z-Image-Turbo-Finetune-LoRA/), `2026-02-14 15:53`
-- [解决Windows11端口被随机占用的问题](http://vanilla-chan.cn/blog/2026/02/13/fix-win11-port-occupied/), `2026-02-13 10:49`
 
 <!-- BLOG-POST-LIST-CITE:END -->
 
