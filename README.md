@@ -34,11 +34,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST-CITE:START -->
+- [关于大数据专业课程安排的若干建议](http://vanilla-chan.cn/blog/2026/04/14/suggestions-on-big-data-curriculum/), `2026-04-14 16:57`
 - [202603月度小结](http://vanilla-chan.cn/blog/2026/03/31/202603/), `2026-03-31 14:53`
 - [同花顺“摘星计划”面经](http://vanilla-chan.cn/blog/2026/03/26/ths-astar-interview-experience/), `2026-03-26 02:51`
 - [记一次解密7z](http://vanilla-chan.cn/blog/2026/03/13/1-crack-7z/), `2026-03-13 16:39`
 - [零刻GTi13Ultra进入BIOS切换显卡PCIe通道](http://vanilla-chan.cn/blog/2026/03/05/GTi13Ultra-BIOS-PCIe-Configuration/), `2026-03-05 21:42`
-- [21岁。](http://vanilla-chan.cn/blog/2026/03/02/checkpoint-at-21/), `2026-03-02 04:10`
 
 <!-- BLOG-POST-LIST-CITE:END -->
 
