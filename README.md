@@ -8,7 +8,7 @@
   <h1>Hi there, I'm Vanilla Yukirin 👋</h1>
   <p><b>ACMer | MCMer | AFOIer | Data Science & Big Data Technology</b></p>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1000&pause=3000&color=F76BBC&center=true&vCenter=true&width=435&lines=Time+is+like+water+flowing+eastward;only+flowing+away+without+flowing+back" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=800&pause=2000&color=F76BBC&center=true&vCenter=true&width=435&lines=Always+continue;Never+break" alt="Typing SVG" />
   </a>
 </div>
 
