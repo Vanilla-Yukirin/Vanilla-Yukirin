@@ -20,9 +20,7 @@
 - ✨ **Vision**: Use code and math to create miracles, making the world just a little more interesting 😊
 
 <div align="center">
-  <a href="https://codetime.dev/zh-CN/user/35121">
-    <img href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D35121">
-  </a>
+  <a href="https://codetime.dev"><img alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=for-the-badge&color=0284c7&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D35121"></a>
 </div>
 
 ### 🛠️ Tech Stack
