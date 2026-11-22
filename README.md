@@ -32,11 +32,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST-CITE:START -->
+- [腾讯wxg小程序面经](https://blog.vanilla-chan.cn/2026/11/21/wxg-mini-program-interview/), `2026-11-21 01:40`
 - [零刻GTi13Ultra进入BIOS切换显卡PCIe通道](https://blog.vanilla-chan.cn/2026/03/06/GTi13Ultra-BIOS-PCIe-Configuration/), `2026-03-05 21:42`
 - [Z-Image-Turbo进行LoRA微调流程](https://blog.vanilla-chan.cn/2026/02/14/Z-Image-Turbo-Finetune-LoRA/), `2026-02-14 15:53`
 - [解决Windows11端口被随机占用的问题](https://blog.vanilla-chan.cn/2026/02/13/fix-win11-port-occupied/), `2026-02-13 10:49`
 - [仅通过一句提示词，就可以让大模型变得更有创造力](https://blog.vanilla-chan.cn/2025/12/17/Verbalized-Sampling/), `2025-12-17 06:14`
-- [WSL2如何使用中文字体](https://blog.vanilla-chan.cn/2025/12/16/WSL2-Use-CN-Fonts/), `2025-12-16 08:44`
 
 <!-- BLOG-POST-LIST-CITE:END -->
 
